@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohankumar01012005" alt="mohankumar01012005" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix_GPT**
 
-- 🌱 I’m currently learning **OOPs**
+
+- 🌱 I’m currently learning **OS**
 
 - 👯 I’m looking to collaborate on **Large scale Projects**
 
