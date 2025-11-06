@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **OS**
+
 
 - 👯 I’m looking to collaborate on **Large scale Projects**
 
